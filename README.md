@@ -19,10 +19,6 @@
 
 This is a personal portfolio website for Kevin Kirwa, showcasing projects, skills, and a brief about his professional background as a web developer. The site also serves as a platform to connect with potential collaborators, clients, or employers.  
 
-### Demo  
-Access the live version of the website [here](https://yourwebsite.com). *(Replace with your actual link)*  
-
-
 
 ## Features
 
